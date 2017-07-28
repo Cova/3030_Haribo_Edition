@@ -15,7 +15,10 @@ _These files are optional stuff to print for the Haribo Edition_
 |1x_mk2x_y_belt_holder_modded.stl|chinooktx (Pat Brochu)|modded y belt holder from mk2x (added 2mm)|
 |1x_modified_stock_y_belt_holder.stl|geoffreyc (Geoffrey C.)|Modified stock y belt holder, alternative to reference one|
 |1x_power_supply_box.stl<br/>1x_power_supply_mount.stl|jtktam (Joseph Tam)|Power supply mount and switch box for ebay PSU|
+|1x_printed_spool_holder.stl|Cova (Rob Baumstark)|Fully printable spool holder if you didn't get the extrusion one - same style as the stock MK2 one.|
+|1x_rambo_mount_snapon.stl|Cova (Rob Baumstark)|Alternative Rambo mount that snaps into the extrusion - no T-Nuts required.|
 |3x_double_y_bearing_housing.stl|Mk2-x|demoted y bearing holder|
+|3x_left_l_bracket.stl<br/>3x_right_l_bracket.stl|Cova (Rob Baumstark)|Alternative L brackets (need a fourth of one of them if you have the extrusion-based spool holder as well)|
 |3x_SC8UU_LM8UU.stl|jtktam (Joseph Tam)|adapt lm8u to sc8uu block, use for aftermarket y carriage|
 |3x_SC8UU_RZJM.stl|jtktam (Joseph Tam)|adapt igus rjzm to sc8uu block, use for aftermarket y carriage|
 |3x_y_bearing_housing_lm8uu_short.stl|chinooktx (Pat Brochu)|adapt lm8uu to y belt bearing|
