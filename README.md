@@ -85,5 +85,6 @@ S3D base settings
 |36|Cappy175|Black/Lime Green||||
 |37|Grooperdude|Black/Dark Pruple||||
 |38|totalitarian|||||
-|39||||||
-|40||||||
+|39|mloidl|Silver/Melon Yellow||||
+|40|IcicleTrepan|Black/Green||||
+|41||||||
